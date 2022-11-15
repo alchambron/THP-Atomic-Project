@@ -58,6 +58,13 @@
   max-width: 400px;
 }
 
+.pp {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+
+}
+
 :root {
   --bs-blue: #007bff;
   --bs-indigo: #6610f2;
@@ -4701,8 +4708,8 @@ textarea.form-control-lg {
 }
 
 .list-group {
-  --bs-list-group-color: #17141f;
-  --bs-list-group-bg: #17141f;
+  --bs-list-group-color: #111111;
+  --bs-list-group-bg: #111111;
   --bs-list-group-border-color: transparent;
   --bs-list-group-border-width: 1px;
   --bs-list-group-border-radius: 0.375rem;
